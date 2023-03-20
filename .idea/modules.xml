@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/contao-cloudfront.iml" filepath="$PROJECT_DIR$/.idea/contao-cloudfront.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mehr-bb-repos/contao-cron-bundle/.idea/contao-cron-bundle.iml" filepath="$PROJECT_DIR$/../../mehr-bb-repos/contao-cron-bundle/.idea/contao-cron-bundle.iml" />
+    </modules>
+  </component>
+</project>

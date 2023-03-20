@@ -1,0 +1,25 @@
+{
+    "name": "piethan/contao-cloudfront",
+    "description": "Extension for CloudFront invalidation.",
+    "type": "contao-bundle",
+    "license": "LGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Piethan\\ContaoCloudfront\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dirk Piethan",
+            "email": "d.piethan@web.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "contao/core-bundle": "^4.4",
+        "aws/aws-sdk-php"   : "^3.261"
+    },
+    "extra": {
+        "contao-manager-plugin": "Piethan\\CloudFrontBundle\\ContaoManager\\Plugin"
+    }
+}
